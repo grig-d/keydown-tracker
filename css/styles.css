@@ -1,0 +1,44 @@
+.wrapper {
+  margin: 20px auto 0 auto;
+
+  padding: 20px;
+  width: 250px;
+  height: 150px;
+  background: #f5f4fa;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.heading {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+}
+
+.list {
+  margin-top: 20px;
+  display: inline-block;
+  text-align: right;
+  list-style-type: none;
+}
+
+.item {
+  margin-bottom: 2px;
+}
+
+/* border: 1px solid #2196F3;
+box-sizing: border-box;
+border-radius: 4px; */
+
+/* background: #2196F3; */
+/* background: #188CE8; */
+
+/* background: #F5F4FA; */
+/* background: #2F303A; */
+
+/* shadow */
+/* arduino LED style */
+/* switch LED style - yellow/blue/grey */
